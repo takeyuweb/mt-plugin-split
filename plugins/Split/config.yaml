@@ -1,0 +1,12 @@
+name: Split Modifier
+id: Split
+key: split
+version: 1.0
+l10n_class: Split::L10N
+description: <__trans phrase="_PLUGIN_DESCRIPTION_">
+author_name: Yuichi Takeuchi
+author_link: http://takeyu-web.com/
+
+tags:
+    modifier:
+        split: Split::Tags::_hdlr_split
