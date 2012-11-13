@@ -1,7 +1,7 @@
 name: Split Modifier
 id: Split
 key: split
-version: 1.0
+version: 1.0.1
 l10n_class: Split::L10N
 description: <__trans phrase="_PLUGIN_DESCRIPTION_">
 author_name: Yuichi Takeuchi
